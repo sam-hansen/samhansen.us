@@ -48,7 +48,7 @@ Ordered
 
 Inline `code`
 
-```
+```jsx
 export default function Nextra({ Component, pageProps }) {
   return (
     <>

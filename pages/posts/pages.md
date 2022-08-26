@@ -12,7 +12,7 @@ In Next.js, a **page** is a [React Component](https://reactjs.org/docs/component
 
 **Example**: If you create `pages/about.js` that exports a React component like below, it will be accessible at `/about`.
 
-```
+```js
 function About() {
   return <div>About</div>
 }
