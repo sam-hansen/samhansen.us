@@ -26,6 +26,8 @@ _This is italic text_
 
 ~~Strikethrough~~
 
+<mark>This is highlighted text</mark>
+
 ## Blockquotes
 
 > Develop. Preview. Ship. – Vercel
