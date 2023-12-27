@@ -1,9 +1,10 @@
+
 ---
 title: Markdown Examples
 date: 2021/3/19
 description: View examples of all possible Markdown options.
-tag: web development
-author: You
+tag: Web De velopment
+author: Sam Hansen
 ---
 
 # Markdown Examples
@@ -50,6 +51,9 @@ Ordered
 
 Inline `code`
 
+Code Block
+
+        console.log("Hello, World!");
 ```jsx
 export default function Nextra({ Component, pageProps }) {
   return (
@@ -99,3 +103,4 @@ export default function Nextra({ Component, pageProps }) {
 and multiple paragraphs.
 
 [^2]: Footnote text.
+
